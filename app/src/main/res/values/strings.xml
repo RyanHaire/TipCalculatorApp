@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="about">About</string>
+    <string name="per_person">Per Person:</string>
+    <string name="amount">Amount</string>
+    <string name="tip">Tip %</string>
+    <string name="people"># people</string>
+    <string name="tip_is">Tip is:</string>
+    <string name="total_is">Total is:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
